@@ -16,7 +16,7 @@ Neste projeto, você aplicará conceitos fundamentais de desenvolvimento web, co
 - JSON-Server para simulação de servidor
 - Figma para design da interface
 
-[![Acesse o projeto](https://img.shields.io/badge/Acesse%20o%20Projeto-purple?style=for-the-badge&logo=appveyor)](URL_DO_SEU_DEPLOY)
+[![Acesse o projeto](https://img.shields.io/badge/Acesse%20o%20Projeto-purple?style=for-the-badge&logo=appveyor)](https://challenge-alurageek-eight.vercel.app/)
 
 ## Funcionalidades
 Adicionar Produtos: Preencha o formulário na página inicial com o nome, preço e link da imagem do produto. E clique em "Guardar" para adicioná-lo à lista ou clique em "Limpar" para começar um novo cadastro.
