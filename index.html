@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Press+Start+2P&display=swap"
+        rel="stylesheet">
+    <title>AluraGeek</title>
+</head>
+
+<body>
+    <header>
+        <img src="./images/logo-alura.png" alt="Logo AluraGeek">
+    </header>
+    <main>
+        <section class="formProduct">
+            <h1>ADCIONAR PRODUTO:</h1>
+            <form id="form" action="#">
+                <input type="text" name="name" id="name" placeholder="Nome..." autocomplete="name" required>
+                <input type="text" name="price" id="price" placeholder="Valor..." autocomplete="off" required>
+                <input type="text" name="image" id="image" placeholder="Imagem..." autocomplete="off" required>
+                <div class="buttonsForm">
+                    <button type="submit">Guardar</button>
+                    <button type="reset">Limpar</button>
+                </div>
+            </form>
+        </section>
+
+        <section class="products">
+            <h1>MEUS PRODUTOS:</h1>
+            <ul id="listProducts">
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <img src="./images/logo-alura.png" alt="Logo AluraGeek">
+        <div class="infoFooter">
+            <p>DESENVOLVIDO POR DÉBORA NORTES</p>
+            <span>ALURA LATAM - 2024</span>
+        </div>
+    </footer>
+    <script type="module" src="./script.js"></script>
+</body>
+
+</html>

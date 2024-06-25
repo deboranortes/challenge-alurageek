@@ -1,0 +1,58 @@
+{
+    "produtos": [
+        {
+            "id": 0,
+            "name": "Boneca Chun-Li",
+            "price": "331.34",
+            "image": "https://images.tcdn.com.br/img/img_prod/460977/pre_venda_boneco_chun_li_street_fighter_v_escala_1_12_storm_collectibles_21963_4_20201211172247.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Joystick Fliperama",
+            "price": "335.05",
+            "image": "https://tm.ibxk.com.br/2012/1/materias/4850789881111126.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Cadeira Gamer",
+            "price": "999.99",
+            "image": "https://a-static.mlcdn.com.br/450x450/cadeira-gamer-cooler-master-caliber-x2-street-fighter-6-chun-li-vila-brasil/zeus08/vip42311y/9306246f2787b9f189a31173df77a7e5.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Mouse Pad",
+            "price": "212.59",
+            "image": "https://i.etsystatic.com/38462365/r/il/bbb1ee/4701163678/il_570xN.4701163678_8gnb.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Caneca Riu",
+            "price": "36.90",
+            "image": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/502398/Caneca-Gamer-Street-Fighter-Player-Select-Preta_1697650130_g.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Camiseta Blanka",
+            "price": "99.90",
+            "image": "https://images.tcdn.com.br/img/img_prod/460977/camiseta_unissex_blanka_street_fighter_iv_57133_1_20201211172605.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Boneco Riu",
+            "price": "111.94",
+            "image": "https://www.geekmagazine.com.br/wp-content/uploads/2021/06/action-figure-ryu-street-fighter-game.webp"
+        },
+        {
+            "id": 7,
+            "name": "Boneco: Guile",
+            "price": "119.90",
+            "image": "https://images.tcdn.com.br/img/img_prod/460977/metals_die_cast_guile_street_fighter_m306_dtc_21421_1_20201211174856.jpg"
+        },
+        {
+            "id": "b79d",
+            "name": "Caneca Blanka",
+            "price": "39.90",
+            "image": "https://cdn.awsli.com.br/1597/1597404/produto/166213211/7cf658f24a.jpg"
+        }
+    ]
+}
