@@ -26,7 +26,7 @@ Remover Produtos: Cada produto na lista exibe um ícone de lixeira. Clique no í
 Essas funcionalidades utilizam requisições assíncronas (POST e DELETE) para interagir com o servidor e atualizar a lista de produtos exibida na página.
 
 ## Demonstração
-![GIF do Projeto](URL_DO_SEU_GIF)
+![GIF do Projeto](alurageek.gif)
 
 
 ## Para saber mais
