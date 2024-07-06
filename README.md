@@ -30,7 +30,7 @@ Essas funcionalidades utilizam requisições assíncronas (POST e DELETE) para i
 
 
 ## Para saber mais
-[![Acesse a Oracle Next Education](https://img.shields.io/badge/Acesse-a%20Oracle%20Next%20Education-red?style=for-the-badge&logoColor=white&logo=oracle&width=200&height=40)](https://www.oracle.com/education/next-education/)
+[![Acesse a Oracle Next Education](https://img.shields.io/badge/Acesse-a%20Oracle%20Next%20Education-red?style=for-the-badge&logoColor=white&logo=oracle&width=200&height=40)](https://www.oracle.com/br/education/oracle-next-education/)
 
 
 [![Acesse a Alura](https://img.shields.io/badge/Acesse-a%20Alura-blue?style=for-the-badge&logo=alura&width=200&height=40)](https://www.alura.com.br/)
